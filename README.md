@@ -6,6 +6,11 @@ This repository contains a reproducible bioinformatics workflow for the comparat
 Four *A. salmonicida* genomes from aquaculture and human isolates were analyzed using a workflow including quality control, genome assembly, genome annotation and AMR gene detection.
 The resulting resistomes were compared to identify conserved and isolate-specific resistance genes, providing an overview of antimicrobial resistance diversity within the species.
 ## Objectives
+The main objectives of this project were to:
+- Identify antimicrobial resistance (AMR) genes in *Aeromonas salmonicida* isolates.
+- Compare the AMR profiles of isolates from aquaculture and human sources.
+- Identify conserved and isolate-specific AMR determinants.
+- Characterize antimicrobial resistance patterns across isolates from different origins.
 ## Dataset
 ## Bioinformatics Workflow
 ## Repository Structure
